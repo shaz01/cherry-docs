@@ -90,4 +90,4 @@ These terms are governed by the laws of the Republic of Türkiye. If you're a co
 
 Billing questions about web purchases: contact Paddle through your receipt or [paddle.net](https://paddle.net).
 
-Everything else: open an issue at [github.com/shaz01/cherry-docs/issues](https://github.com/shaz01/cherry-docs/issues).
+Everything else: [cherry.agent@protonmail.com](mailto:cherry.agent@protonmail.com)
